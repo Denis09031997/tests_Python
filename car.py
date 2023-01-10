@@ -4,4 +4,4 @@ def is_Korea_car(car):
         return 'Да, это корейская машина'
 
 
-print(is_Korea_car('ghh'))
+print(is_Korea_car('КИА'))
